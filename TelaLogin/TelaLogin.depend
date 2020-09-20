@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1600564892 source:c:\users\valer\desktop\projeto c\telalogin\resource.rc
+1600576046 source:c:\users\valer\desktop\projeto c\telalogin\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
 	"resource.h"
 
-1600564892 c:\users\valer\desktop\projeto c\telalogin\resource.h
+1600576046 c:\users\valer\desktop\projeto c\telalogin\resource.h
 
-1600564600 source:c:\users\valer\desktop\projeto c\telalogin\main.cpp
+1600565718 source:c:\users\valer\desktop\projeto c\telalogin\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
