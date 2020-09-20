@@ -39,6 +39,9 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
         case Ok_1:
             {
+
+             void password_checker();
+
              char usuario[1024];
              char senha[1024];
              GetDlgItemText(hwndDlg, Login_1, usuario, sizeof(usuario));
